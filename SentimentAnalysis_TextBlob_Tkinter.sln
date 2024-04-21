@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SentimentAnalysis_TextBlob_Tkinter", "SentimentAnalysis_TextBlob_Tkinter\SentimentAnalysis_TextBlob_Tkinter.pyproj", "{F4D418DE-2D41-46B0-8519-B19931A75510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D418DE-2D41-46B0-8519-B19931A75510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D418DE-2D41-46B0-8519-B19931A75510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F54581-9DA9-40AE-A7CA-E8A4CCB66D96}
+	EndGlobalSection
+EndGlobal
